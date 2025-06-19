@@ -1,10 +1,13 @@
 
-
+import Chai from "./chai"
 function App() {
   
 
   return (
-    <h1>REACT WITH VITE | KK</h1>
+    <>
+   <Chai></Chai>
+   <p> tmkc</p>
+   </>
   )
 }
 

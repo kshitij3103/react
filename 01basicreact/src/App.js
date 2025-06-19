@@ -1,8 +1,10 @@
-
+import Chai from "./Chai"; // Make sure the component is exported as `Chai`
 
 function App() {
   return (
-    <h1>REACT</h1>
+    <>
+      <Chai />
+    </>
   );
 }
 
